@@ -102,6 +102,8 @@ liuzhuangthu at gmail.com
 本源码博客：模型压缩：Networks Slimming-Learning Efficient Convolutional Networks through Network Slimming
 2、https://github.com/lijian10086/network-slimming
 另一个pytorch源码，有性能对比
+2.1、 https://github.com/lijian10086/pytorch-slimming
+另一个pytorch源码，有性能对比
 3、https://github.com/lijian10086/yolov3-network-slimming
 另一个源码：yolov3 network slimming剪枝的一种实现
 
