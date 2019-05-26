@@ -106,5 +106,6 @@ liuzhuangthu at gmail.com
 另一个pytorch源码，有性能对比
 3、https://github.com/lijian10086/yolov3-network-slimming
 另一个源码：yolov3 network slimming剪枝的一种实现
-
+4、https://blog.csdn.net/nature553863/article/details/80649182
+Network Slimming——有效的通道剪枝方法（Channel Pruning）
 
