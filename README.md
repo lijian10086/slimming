@@ -96,6 +96,13 @@ th main_fine_tune.lua -retrain vgg_cifar10/converted/model_160_0.7.t7 -save vgg_
 ## Contact
 liuzhuangthu at gmail.com
 
+##李剑备注：
+1、https://blog.csdn.net/u011995719/article/details/78788336 
 
+本源码博客：模型压缩：Networks Slimming-Learning Efficient Convolutional Networks through Network Slimming
+2、https://github.com/lijian10086/network-slimming
+另一个pytorch源码，有性能对比
+3、https://github.com/lijian10086/yolov3-network-slimming
+另一个源码：yolov3 network slimming剪枝的一种实现
 
 
